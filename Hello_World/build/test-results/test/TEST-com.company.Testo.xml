@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.Testo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-19T19:55:18" hostname="DESKTOP-B99BK98" time="0.088">
+  <properties/>
+  <testcase name="Testo()" classname="com.company.Testo" time="0.088"/>
+  <system-out><![CDATA[File size: 53 bytes 
+File size: 53 bytes 
+legal
+
+name: ignat 	 surname: ignatovich 	  inn: 1488 
+ 
+name: ignat 	 surname: ignatovich 	  inn: 1488 
+ ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
