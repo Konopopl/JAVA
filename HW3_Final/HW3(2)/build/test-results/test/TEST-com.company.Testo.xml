@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.Testo" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-12T13:02:52" hostname="DESKTOP-B99BK98" time="0.046">
+  <properties/>
+  <testcase name="Testo()" classname="com.company.Testo" time="0.046"/>
+  <system-out><![CDATA[ddd
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
