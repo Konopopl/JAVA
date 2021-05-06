@@ -1,0 +1,5 @@
+type holding
+name Felix 
+surname Svarch
+inn 234 
+gender men

@@ -1,0 +1,5 @@
+type individual 
+name hghg 
+age 88 
+inn 777 
+surname hghghghghghg

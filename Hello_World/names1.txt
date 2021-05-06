@@ -1,0 +1,4 @@
+type legal 
+name ignat
+surname ignatovich
+inn 1488

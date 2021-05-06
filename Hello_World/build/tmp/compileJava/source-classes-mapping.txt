@@ -1,0 +1,15 @@
+com/company/kvadro.java
+ com.company.kvadro
+com/company/legal.java
+ com.company.legal
+com/company/ENUM.java
+ com.company.ENUM
+ com.company.ENUM$1
+ com.company.ENUM$2
+ com.company.ENUM$3
+com/company/Main.java
+ com.company.Main
+com/company/individual.java
+ com.company.individual
+com/company/holding.java
+ com.company.holding
